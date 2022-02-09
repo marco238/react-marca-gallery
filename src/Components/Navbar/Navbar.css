@@ -1,0 +1,15 @@
+.navbar-container {
+  width: 100%;
+  height: 56px;
+  background-color: #550455;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.navbar-link {
+  color: #fff;
+  text-decoration: none;
+  font: normal 20px/22px "RobotoBold",Arial,sans-serif,helvetica;
+  margin-right: 20px;
+}

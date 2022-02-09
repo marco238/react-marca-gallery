@@ -1,0 +1,25 @@
+.endview-container {
+  height: calc(100vh - 56px);
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.endview-button {
+  margin-top: 30px;
+  background-color: #550455;
+  height: 48px;
+  padding: 0 24px;
+  border-radius: 48px;
+  font: bold 16px/48px "RobotoBold",Arial,sans-serif,helvetica;
+  color: #fff;
+  text-decoration: none;
+  vertical-align: middle;
+  position: relative;
+  transition: all 200ms ease-out 0s;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+}
